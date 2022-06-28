@@ -11,15 +11,8 @@
     <modules>
         <module>spring-step-my-01</module>
         <module>spring-step-my-02</module>
-        <module>spring-step-my-02</module>
-<<<<<<< HEAD
         <module>spring-step-my-03</module>
         <module>spring-step-my-04</module>
-<<<<<<< HEAD
-=======
->>>>>>> parent of bd20a62 ([@new 使用Cglib、Jdk创建带构造方法的实例对象])
-=======
->>>>>>> 90169f162daa506eb831ec811d28d4a693685d8a
     </modules>
 
     <properties>

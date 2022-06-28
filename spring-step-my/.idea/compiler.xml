@@ -7,18 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-step-my-01" />
-<<<<<<< HEAD
-<<<<<<< HEAD
         <module name="spring-step-my-03" />
         <module name="spring-step-my-02" />
         <module name="spring-step-my-04" />
-=======
->>>>>>> parent of bd20a62 ([@new 使用Cglib、Jdk创建带构造方法的实例对象])
-=======
-        <module name="spring-step-my-03" />
-        <module name="spring-step-my-02" />
-        <module name="spring-step-my-04" />
->>>>>>> 90169f162daa506eb831ec811d28d4a693685d8a
       </profile>
     </annotationProcessing>
   </component>
