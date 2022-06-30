@@ -13,6 +13,7 @@
         <module>spring-step-my-02</module>
         <module>spring-step-my-03</module>
         <module>spring-step-my-04</module>
+        <module>spring-step-my-05</module>
     </modules>
 
     <properties>
