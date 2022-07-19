@@ -16,6 +16,7 @@
         <module>spring-step-my-05</module>
         <module>spring-step-my-06</module>
         <module>spring-step-my-07</module>
+        <module>spring-step-my-08</module>
     </modules>
 
     <properties>
