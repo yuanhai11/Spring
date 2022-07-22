@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-step-my-09" />
+        <module name="spring-step-my-08" />
         <module name="spring-step-my-01" />
         <module name="spring-step-my-03" />
         <module name="spring-step-my-02" />
         <module name="spring-step-my-05" />
         <module name="spring-step-my-04" />
+        <module name="spring-step-my-07" />
         <module name="spring-step-my-06" />
       </profile>
     </annotationProcessing>
