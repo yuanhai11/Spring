@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean class="com.wxt.bean.CustomEventListener"></bean>
+    <bean class="com.wxt.bean.ContextCloseEventListener"></bean>
+    <bean class="com.wxt.bean.ContextRefreshEventListener"></bean>
+
+</beans>
