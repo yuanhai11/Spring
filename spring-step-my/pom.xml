@@ -19,6 +19,7 @@
         <module>spring-step-my-08</module>
         <module>spring-step-my-09</module>
         <module>spring-step-my-10</module>
+        <module>spring-step-my-11-aop</module>
     </modules>
 
     <properties>
